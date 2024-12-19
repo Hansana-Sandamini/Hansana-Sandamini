@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansana-sandamini" alt="hansana-sandamini" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Graduate Diploma in Software Engineering at IJSE**
 
 - 🌱 I’m currently learning **Java**
@@ -12,6 +10,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **hansanasandamini2005@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,11 +20,16 @@
 <a href="https://www.hackerrank.com/hansanasandamin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hansanasandamin1" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansana-sandamini&show_icons=true&locale=en&layout=compact" alt="hansana-sandamini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansana-sandamini&show_icons=true&locale=en" alt="hansana-sandamini" /></p>
+![](https://github-readme-stats.vercel.app/api?username=hansana-sandamini&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hansana-sandamini&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hansana-sandamini&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansana-sandamini&" alt="hansana-sandamini" /></p>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
