@@ -22,7 +22,33 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
+  </a> <br/>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/> 
+  </a>
+</p>
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=hansana-sandamini&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
