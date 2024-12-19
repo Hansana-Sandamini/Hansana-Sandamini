@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hansana Sandamini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansana-sandamini&label=Profile%20views&color=0e75b6&style=flat" alt="hansana-sandamini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansana-sandamini" alt="hansana-sandamini" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=hansana-sandamini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on **Graduate Diploma in Software Engineering at IJSE**
 
@@ -33,3 +33,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
