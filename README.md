@@ -56,9 +56,7 @@
   </a>
 </p>
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=hansana-sandamini&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hansana-sandamini&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hansana-sandamini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hansana-sandamini&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
