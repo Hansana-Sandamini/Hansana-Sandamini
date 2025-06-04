@@ -69,6 +69,9 @@
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/> 
   </a>
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=hansana-sandamini&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
