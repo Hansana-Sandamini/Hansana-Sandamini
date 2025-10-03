@@ -87,6 +87,9 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  </a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=hansana-sandamini&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
