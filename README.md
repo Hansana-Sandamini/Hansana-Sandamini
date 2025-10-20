@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Graduate Diploma in Software Engineering at IJSE**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**, **Python**
 
 - 💬 Ask me about **Java**
 
