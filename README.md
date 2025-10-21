@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**, **Python**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **JavaScript**, **Spring Boot**
 
 - 📫 How to reach me **hansanasandamini2005@gmail.com**
 
